@@ -1,7 +1,7 @@
 ## Being Welcome!
 
 ### About
-**Data Science | Data Analytics | Machine Learning | Artificial Intelligence | Mathematics | Statistics | Python | SQL**
+**Data Science | Machine Learning | Mathematics | Statistics | Python | SQL**
 
 I'm Lucas Cavalcante, Master in Applied and Computational Mathematics and Postgraduate in Artificial Intelligence and with academic and professional experience in data science.
 
