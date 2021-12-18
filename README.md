@@ -3,9 +3,9 @@
 ### About
 **Data Science | Machine Learning | Mathematics | Statistics | Python | SQL**
 
-I'm Lucas Cavalcante, Master in Applied and Computational Mathematics and Postgraduate in Artificial Intelligence and with academic and professional experience in data science.
+I'm Lucas Cavalcante, Master in Applied and Computational Mathematics and Postgraduate in Artificial Intelligence Applied in Industry with academic and professional experience in data science.
 
-#### Professional Experience
+### Professional Experience
 **(2021-now) GAVB Consulting | Boticário Group**
 * Data Scientist
 
@@ -49,4 +49,6 @@ I'm Lucas Cavalcante, Master in Applied and Computational Mathematics and Postgr
 
 ### Contact
 [![Gmail Badge](https://img.shields.io/badge/-lidcc87@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:lidcc87@gmail.com)](mailto:lidcc87@gmail.com) 
-[![Linkedin Badge](https://img.shields.io/badge/-https://www.linkedin.com/in/lucascavalcante87/-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/https://www.linkedin.com/in/lucascavalcante87//)](https://www.linkedin.com/in/https://www.linkedin.com/in/lucascavalcante87//) [![Github Badge](https://img.shields.io/badge/-lucascavalcante87-grey?style=flat&logo=github&logoColor=white&link=https://github.com/lucascavalcante87/)](https://www.github.com/lucascavalcante87/) Acess my resume <a href='https://drive.google.com/file/d/1trJDzR2QVG2SpY5VI5dm9xisDbdPAS-n/view?usp=sharing ' target=_blank><u>here</u>.</a></p>
+[![Linkedin Badge](https://img.shields.io/badge/-https://www.linkedin.com/in/lucascavalcante87/-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/https://www.linkedin.com/in/lucascavalcante87//)](https://www.linkedin.com/in/lucascavalcante87/) [![Github Badge](https://img.shields.io/badge/-lucascavalcante87-grey?style=flat&logo=github&logoColor=white&link=https://github.com/lucascavalcante87/)](https://www.github.com/lucascavalcante87/) 
+
+Acess my resumè <a href='https://drive.google.com/file/d/1PMHNUMr__gQG5eo9P_EW8fdI93EtEcq7/view?usp=sharing' target=_blank><u>here</u>.</a></p>
