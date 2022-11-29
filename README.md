@@ -7,10 +7,10 @@ I'm Lucas Cavalcante, Master in Applied and Computational Mathematics and Postgr
 
 ### Professional Experience
 **(2022-now) HC Data | Algar Telecom | Vertem**
-* Data Scientist Manager
+* Data Science Manager
 
 **(2021-2022) GAVB Consulting | Boticário Group**
-* Data Scientist Senior
+* Data Science Senior
 
  **(2021-2021) IBOPE | DTM Marketing | Claro**
 - Database Marketing Manager
