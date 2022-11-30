@@ -54,8 +54,8 @@ I'm Lucas Cavalcante, Master in Applied and Computational Mathematics and Postgr
 [![Gmail Badge](https://img.shields.io/badge/-lidcc87@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:lidcc87@gmail.com)](mailto:lidcc87@gmail.com) 
 [![Linkedin Badge](https://img.shields.io/badge/-https://www.linkedin.com/in/lucascavalcante87/-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/https://www.linkedin.com/in/lucascavalcante87//)](https://www.linkedin.com/in/lucascavalcante87/) [![Github Badge](https://img.shields.io/badge/-lucascavalcante87-grey?style=flat&logo=github&logoColor=white&link=https://github.com/lucascavalcante87/)](https://www.github.com/lucascavalcante87/) 
 
-Acess:
-- <a href='https://www.canva.com/design/DAExIW2R6nA/6xptyLIIyWgUyIstvqF9gg/view?utm_content=DAExIW2R6nA&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink' target=_blank><u>resumè</u></a>
+### Professional Profile:
+- <a href='https://www.canva.com/design/DAExIW2R6nA/6xptyLIIyWgUyIstvqF9gg/view?utm_content=DAExIW2R6nA&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink' target=_blank><u><i>resumè</i></u></a>
 - <a href='https://docs.google.com/document/d/1S2bhiKIGmmDfMSsmSZIdV-IriRbKgZ0zbMkuAAGtllo/edit?usp=sharing' target=_blank><u>cover letter</u></a>
-- <a href='https://docs.google.com/document/d/1yZofQNNCuqHlNtntjmnQXXL8LKPJd8M9FKE00mpHsH8/edit?usp=sharing' target=_blank><u>curriculum vitae</u>.</a>
-- <a href='http://lattes.cnpq.br/8957942644416005' target=_blank><u>curriculum lattes</u>.</a>
+- <a href='https://docs.google.com/document/d/1yZofQNNCuqHlNtntjmnQXXL8LKPJd8M9FKE00mpHsH8/edit?usp=sharing' target=_blank><u>curriculum vitae</u></a>
+- <a href='http://lattes.cnpq.br/8957942644416005' target=_blank><u>curriculum lattes</u></a>
