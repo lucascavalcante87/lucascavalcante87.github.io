@@ -51,7 +51,7 @@ I'm Lucas Cavalcante, Master in Applied and Computational Mathematics and Postgr
 
 ### Calendly
 <!-- Widget em linha do Calendly - início -->
-<div class="calendly-inline-widget" data-url="https://calendly.com/lidcc87" style="min-width:320px;height:630px;"></div>
+<div class="calendly-inline-widget" data-url="https://calendly.com/lucascavalcante87" style="min-width:320px;height:630px;"></div>
 <script type="text/javascript" src="https://assets.calendly.com/assets/external/widget.js" async></script>
 <!-- Widget em linha do Calendly - fim -->
 
