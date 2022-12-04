@@ -49,12 +49,6 @@ I'm Lucas Cavalcante, Master in Applied and Computational Mathematics and Postgr
 **BSc. Mathematics** 
 - Federal University of Sergipe (2006-2012)
 
-### Calendly
-<!-- Widget em linha do Calendly - início -->
-<div class="calendly-inline-widget" data-url="https://calendly.com/lucascavalcante87" style="min-width:320px;height:630px;"></div>
-<script type="text/javascript" src="https://assets.calendly.com/assets/external/widget.js" async></script>
-<!-- Widget em linha do Calendly - fim -->
-
 ### Professional Profile
 [![Gmail Badge](https://img.shields.io/badge/-lidcc87@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:lidcc87@gmail.com)](mailto:lidcc87@gmail.com) 
 [![Linkedin Badge](https://img.shields.io/badge/-https://www.linkedin.com/in/lucascavalcante87/-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/https://www.linkedin.com/in/lucascavalcante87//)](https://www.linkedin.com/in/lucascavalcante87/) [![Github Badge](https://img.shields.io/badge/-lucascavalcante87-grey?style=flat&logo=github&logoColor=white&link=https://github.com/lucascavalcante87/)](https://www.github.com/lucascavalcante87/) 
@@ -64,3 +58,9 @@ I'm Lucas Cavalcante, Master in Applied and Computational Mathematics and Postgr
 - <a href='https://docs.google.com/document/d/1yZofQNNCuqHlNtntjmnQXXL8LKPJd8M9FKE00mpHsH8/edit?usp=sharing' target=_blank><u>Curriculum Vitae</u></a>
 - <a href='https://www.hackerrank.com/lidcc87' target=_blank><u>HackerRank</u></a>
 - <a href='http://lattes.cnpq.br/8957942644416005' target=_blank><u>Curriculum Lattes</u></a>
+
+### Calendly
+<!-- Widget em linha do Calendly - início -->
+<div class="calendly-inline-widget" data-url="https://calendly.com/lucascavalcante87" style="min-width:320px;height:630px;"></div>
+<script type="text/javascript" src="https://assets.calendly.com/assets/external/widget.js" async></script>
+<!-- Widget em linha do Calendly - fim -->
