@@ -50,14 +50,15 @@ I'm Lucas Cavalcante, Master in Applied and Computational Mathematics and Postgr
 - Federal University of Sergipe (2006-2012)
 
 ### Professional Profile
-[![Gmail Badge](https://img.shields.io/badge/-lidcc87@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:lidcc87@gmail.com)](mailto:lidcc87@gmail.com) 
-[![Linkedin Badge](https://img.shields.io/badge/-https://www.linkedin.com/in/lucascavalcante87/-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/https://www.linkedin.com/in/lucascavalcante87//)](https://www.linkedin.com/in/lucascavalcante87/) [![Github Badge](https://img.shields.io/badge/-lucascavalcante87-grey?style=flat&logo=github&logoColor=white&link=https://github.com/lucascavalcante87/)](https://www.github.com/lucascavalcante87/) 
+[![Gmail Badge](https://img.shields.io/badge/-lidcc87-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:lidcc87@gmail.com)](mailto:lidcc87@gmail.com) 
+[![Linkedin Badge](https://img.shields.io/badge/-lucascavalcante87-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/https://www.linkedin.com/in/lucascavalcante87//)](https://www.linkedin.com/in/lucascavalcante87/) 
+[![Github Badge](https://img.shields.io/badge/-lucascavalcante87-grey?style=flat&logo=github&logoColor=white&link=https://github.com/lucascavalcante87/)](https://www.github.com/lucascavalcante87/) 
 
 - <a href='https://www.canva.com/design/DAExIW2R6nA/6xptyLIIyWgUyIstvqF9gg/view?utm_content=DAExIW2R6nA&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink' target=_blank><u><i>Resumè</i></u></a>
 - <a href='https://docs.google.com/document/d/1S2bhiKIGmmDfMSsmSZIdV-IriRbKgZ0zbMkuAAGtllo/edit?usp=sharing' target=_blank><u>Cover Letter</u></a>
-- <a href='https://docs.google.com/document/d/1yZofQNNCuqHlNtntjmnQXXL8LKPJd8M9FKE00mpHsH8/edit?usp=sharing' target=_blank><u>Curriculum Vitae</u></a>
+- <a href='https://docs.google.com/document/d/1yZofQNNCuqHlNtntjmnQXXL8LKPJd8M9FKE00mpHsH8/edit?usp=sharing' target=_blank><u><i>Curriculum Vitae</i></u></a>
 - <a href='https://www.hackerrank.com/lidcc87' target=_blank><u>HackerRank</u></a>
-- <a href='http://lattes.cnpq.br/8957942644416005' target=_blank><u>Curriculum Lattes</u></a>
+- <a href='http://lattes.cnpq.br/8957942644416005' target=_blank><u><i>Curriculum Lattes</i></u></a>
 
 ### Calendly
 <!-- Widget em linha do Calendly - início -->
