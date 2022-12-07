@@ -58,6 +58,7 @@ I'm Lucas Cavalcante, Master in Applied and Computational Mathematics and Postgr
 - <a href='https://docs.google.com/document/d/1S2bhiKIGmmDfMSsmSZIdV-IriRbKgZ0zbMkuAAGtllo/edit?usp=sharing' target=_blank><u>Cover Letter</u></a>
 - <a href='https://docs.google.com/document/d/1yZofQNNCuqHlNtntjmnQXXL8LKPJd8M9FKE00mpHsH8/edit?usp=sharing' target=_blank><u><i>Curriculum Vitae</i></u></a>
 - <a href='https://www.hackerrank.com/lidcc87' target=_blank><u>HackerRank</u></a>
+- <a href='https://drive.google.com/file/d/1BN2LIvQMm3ocbJOvZyjo-pl3YGb8MFgT/view?usp=sharing' target=_blank<u>AI Hub SENAI/PR Portfolio</u></a>
 - <a href='http://lattes.cnpq.br/8957942644416005' target=_blank><u><i>Curriculum Lattes</i></u></a>
 
 ### Calendly
