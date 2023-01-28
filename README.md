@@ -6,7 +6,7 @@
 I'm Lucas Cavalcante, Master in Applied and Computational Mathematics and Postgraduate in Artificial Intelligence Applied in Industry with academic and professional experience in data science, data analytics and machine learning.
 
 ### Professional Experience
-**(2022-now) HC Data | Vertem**
+**(2022-now) HC Data | Vertem | ICTS Protiviti**
 * Data Science Manager
 
 **(2021-2022) GAVB Consulting | Boticário Group**
