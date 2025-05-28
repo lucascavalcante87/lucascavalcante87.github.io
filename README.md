@@ -1,41 +1,47 @@
-## Being Welcome!
+## MSc. Lucas Cavalcante
 
 ### About
-**Data Science | Machine Learning | Mathematics | Statistics | Python | SQL | Azure | GCP**
+**Data Science | Data Analytics | Machine Learning | Artificial Intelligence | Mathematics | Statistics | Python | SQL**
 
-I'm Lucas Cavalcante, Master in Applied and Computational Mathematics and Postgraduate in Artificial Intelligence Applied in Industry with academic and professional experience in data science, data analytics and machine learning.
+I'm Lucas Cavalcante, Master in Applied and Computational Mathematics, Postgraduate in Artificial Intelligence Applied in Industry and MBA in Artificial Intelligence with academic and professional experience in data science, data analytics and machine learning.
 
 ### Professional Experience
-**(2022-now) HC Data | Vertem | ICTS Protiviti**
-* Data Science Manager
+**(2024-now) Blueshift | Arcelor Mittal | Riachuelo**
+- Senior Data Science
 
-**(2021-2022) GAVB Consulting | Boticário Group**
-* Data Science Senior
+**(2022-2024) Insight IT | Vertem | ICTS Protiviti**
+- Senior Data Science
+
+**(2021-2022) Boticário Group**
+- Senior Data Science
 
  **(2021-2021) IBOPE | DTM Marketing | Claro**
 - Database Marketing Manager
 
-**(2020-2021) GT Consulting**
+**(2020-2021) GT Group**
 - IT Scientific Researcher
 
 **(2019-2020) Artificial Intelligence Hub**
-- Data Scientist Internship
+- Trainee Data Science
 
 **(2017-2019) Kroton Educacional**
-- Academic On-Line Tutor
+- Academic Tutor
 
 **(2016-2018) State University of Londrina**
-- Researcher/Tutor Internship
+- Internship Researcher/Tutor
 
 **(2015-2016) Federal University of Sergipe**
-- Researcher/Tutor Internship
+- Internship Researcher/Tutor
 
 **(2008-2010) Brazilian Mathematical Olympiads**
- * Researcher/Tutor Internship
+ * Internship Researcher/Tutor
 
 ### Education
 **MSc. Applied and Computational Mathematics**
 - State University of Londrina (2016-2018)
+
+**Advanced MBA in Data Analytics, Artificial Intelligence and Data Science**
+- FIA Business School (2025-2026)
 
 **PoG. Artificial Intelligence Applied to Industry**
 - National Industrial Apprenticeship Service (2019-2020)
@@ -54,8 +60,6 @@ I'm Lucas Cavalcante, Master in Applied and Computational Mathematics and Postgr
 [![Linkedin Badge](https://img.shields.io/badge/-lucascavalcante87-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/https://www.linkedin.com/in/lucascavalcante87//)](https://www.linkedin.com/in/lucascavalcante87/) 
 [![Github Badge](https://img.shields.io/badge/-lucascavalcante87-grey?style=flat&logo=github&logoColor=white&link=https://github.com/lucascavalcante87/)](https://www.github.com/lucascavalcante87/) 
 
-- <a href='https://www.canva.com/design/DAExIW2R6nA/6xptyLIIyWgUyIstvqF9gg/view?utm_content=DAExIW2R6nA&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink' target=_blank><u><i>Resumè</i></u></a>
-- <a href='https://docs.google.com/document/d/1S2bhiKIGmmDfMSsmSZIdV-IriRbKgZ0zbMkuAAGtllo/edit?usp=sharing' target=_blank><u>Cover Letter</u></a>
 - <a href='https://docs.google.com/document/d/1yZofQNNCuqHlNtntjmnQXXL8LKPJd8M9FKE00mpHsH8/edit?usp=sharing' target=_blank><u><i>Curriculum Vitae</i></u></a>
 - <a href='https://www.hackerrank.com/lidcc87' target=_blank><u>HackerRank</u></a>
 - <a href='https://drive.google.com/file/d/1BN2LIvQMm3ocbJOvZyjo-pl3YGb8MFgT/view?usp=sharing' target=_blank><u>AI Hub Portfolio</u></a>
