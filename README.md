@@ -1,3 +1,7 @@
+---
+layout: null
+---
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -125,7 +129,6 @@
         I am a Senior Data Scientist and Applied & Computational Mathematician with extensive expertise in advanced statistical modeling, machine learning, and operational research. Skilled in predictive analytics, optimization algorithms, and data engineering, I develop data-driven solutions that maximize business impact. Experienced in deploying AI models for demand forecasting, fraud detection, recommendation systems, and compliance automation. Passionate about leveraging mathematics and data science to solve complex real-world problems.
       </p>
     </section>
-
     <section id="articles">
       <h2>Articles & Publications</h2>
       <ul>
@@ -134,7 +137,6 @@
         <li>Development of AI governance policies and ethical AI principles to ensure responsible deployment of machine learning models.</li>
       </ul>
     </section>
-
     <section id="courses">
       <h2>Courses & Certifications</h2>
       <ul>
@@ -147,7 +149,6 @@
         <li>Project Management Training - SENAI/PR</li>
       </ul>
     </section>
-
     <section id="projects">
       <h2>Selected Projects</h2>
       <ul>
@@ -159,20 +160,19 @@
         <li><strong>Chicken Weight Prediction & Feed Flow Management:</strong> Created predictive models to optimize poultry farm operations, improving resource management and reducing waste.</li>
       </ul>
     </section>
-
     <section id="contact">
       <h2>Contact</h2>
       <p>You can reach me via:</p>
       <p class="contact-links">
         <a href="mailto:lidcc87@gmail.com" target="_blank" rel="noopener">Email</a>
         <a href="https://github.com/lucascavalcante87" target="_blank" rel="noopener">GitHub</a>
-        <a href="https://linkedin.com/in/lucascavalcante87" target="_blank" rel="noopener">LinkedIn</a>
+        <a href="https://www.linkedin.com/in/lucascavalcante87" target="_blank" rel="noopener">LinkedIn</a>
         <a href="tel:+5543996006487">Phone</a>
       </p>
     </section>
   </main>
   <footer>
-    &copy; 2024 Lucas Cavalcante. All rights reserved.
+    &copy; 2022 Lucas Cavalcante. All rights reserved.
   </footer>
 </body>
 </html>
